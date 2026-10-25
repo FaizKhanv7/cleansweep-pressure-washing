@@ -1,0 +1,43 @@
+{
+  "idea": "pressure washing business",
+  "templateId": "signature",
+  "content": {
+    "siteKind": "business",
+    "title": "CleanSweep Pressure Washing",
+    "tagline": "Reviving surfaces with power",
+    "intro": "Professional pressure washing service that removes grime, mold, and stains from homes, decks, and commercial properties using high‑pressure water and eco‑friendly detergents.",
+    "sections": [
+      {
+        "title": "Our Services",
+        "body": "Driveways, siding, decks, parking lots, and equipment cleaning with tailored pressure levels for each surface."
+      },
+      {
+        "title": "Why Choose Us",
+        "body": "Trained technicians, modern equipment, and a satisfaction guarantee on every job."
+      },
+      {
+        "title": "Service Areas",
+        "body": "Serving the Greater Metro area and surrounding suburbs with flexible scheduling."
+      }
+    ],
+    "facts": [
+      {
+        "value": "1500 psi",
+        "label": "Typical pressure"
+      },
+      {
+        "value": "Eco‑friendly",
+        "label": "Detergent used"
+      }
+    ],
+    "cta": {
+      "label": "Request a quote",
+      "note": "Free estimate within 24 hours"
+    },
+    "closing": {
+      "headline": "Make your property shine again",
+      "body": "Contact us today and see the difference a professional clean can make."
+    },
+    "footerNote": "CleanSweep Pressure Washing"
+  }
+}
